@@ -3,12 +3,21 @@
 
 欢迎各位师傅加入交流群一起交流，公众号：深潜sec安全团队
 
-![image](https://github.com/user-attachments/assets/02b44de5-92d8-48ce-8901-26e5935b7a88)
-
+![image](https://github.com/user-attachments/assets/55d0f72a-7f3d-4fc5-9b41-2b91a59d7552)
 
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+
+# test111
+![img.png](img.png~~)
+
+# 2025.03.17 新增漏洞
+- [Cleo Harmony接口Synchronization存在任意文件读取漏洞](./wpoc/Cleo%20Harmony/Cleo%20Harmony接口Synchronization存在任意文件读取漏洞.md)
+- [安恒明御安全网关net_dynamic_pop_adv_submit存在任意文件上传漏洞](./wpoc/安恒/安恒明御安全网关/安恒明御安全网关net_dynamic_pop_adv_submit存在任意文件上传漏洞.md)
+- [PowerCreator接口OpenPublicCourse.aspx存在sql注入漏洞](./wpoc/PowerCreator/PowerCreator接口OpenPublicCourse.aspx存在sql注入漏洞.md)
+- [PowerCreator接口CatalogCourse.aspx存在sql注入漏洞](./wpoc/PowerCreator/PowerCreator接口CatalogCourse.aspx存在sql注入漏洞.md)
+- [PowerCreator接口ShowResourceSkillComment.aspx存在sql注入漏洞](./wpoc/PowerCreator/PowerCreator接口ShowResourceSkillComment.aspx存在sql注入漏洞.md)
 
 # 2025.03.8 新增漏洞
 

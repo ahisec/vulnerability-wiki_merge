@@ -8,7 +8,7 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
-# 2025.03.24
+# 2025.03.24 新增漏洞
 - [安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞](./wpoc/安恒/安恒明御安全网关/安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞.md)
 - [锐捷 EWEB路由器 timeout.php任意文件上传漏洞](./wpoc/锐捷/锐捷路由器/锐捷EWEB路由器timeout.php任意文件上传漏洞.md)
 

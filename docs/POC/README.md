@@ -8,6 +8,11 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
+# 2025.03.31
+- [KUBERNETES INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974)](./wpoc/KUBERNETES%20INGRESS-NGINX/KUBERNETES%20INGRESS-NGINX远程代码执行漏洞(CVE-2025-1974).md)
+- [CrushFTP身份验证绕过(CVE-2025-2825)](./wpoc/CrushFTP/CrushFTP身份验证绕过(CVE-2025-2825).md)
+- [Vite开发服务器任意文件读取漏洞(CVE-2025-30208)](./wpoc/Vite开发服务器/Vite开发服务器任意文件读取漏洞(CVE-2025-30208).md)
+
 # 2025.03.24 新增漏洞
 - [安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞](./wpoc/安恒/安恒明御安全网关/安恒明御安全网关aaa_local_web_custom_auth_html_submit存在远程命令执行漏洞.md)
 - [锐捷 EWEB路由器 timeout.php任意文件上传漏洞](./wpoc/锐捷/锐捷路由器/锐捷EWEB路由器timeout.php任意文件上传漏洞.md)
@@ -199,7 +204,7 @@
 - [用友NC-process存在SQL注入漏洞](./wpoc/用友OA/用友NC-process存在SQL注入漏洞.md)
 - [用友U8-CRM系统getufvouchdata.php存在SQL注入漏洞](./wpoc/用友OA/用友U8-CRM系统getufvouchdata.php存在SQL注入漏洞.md)
 - [用友U8-CRM系统ajaxgetborrowdata.php存在SQL注入漏洞](./wpoc/用友OA/用友U8-CRM系统ajaxgetborrowdata.php存在SQL注入漏洞.md)
-- [信呼OA办公系统后台uploadAction存在SQL注入](./wpoc/信呼OA/信呼OA办公系统后台uploadAction存在SQL注入.md)
+- [信呼OA办公系统后台api.php接口存在RCE](./wpoc/信呼OA/信呼OA办公系统后台api.php接口存在RCE.md)
 - [海信智能公交企业管理系统AdjustWorkHours.aspx存在SQL注入漏洞](./wpoc/海信/海信智能公交企业管理系统AdjustWorkHours.aspx存在SQL注入漏洞.md)
 - [圣乔ERP系统login.action存在Struts2远程代码执行漏洞](./wpoc/圣乔ERP/圣乔ERP系统login.action存在Struts2远程代码执行漏洞.md)
 - [顺景ERP系统GetFile任意文件读取漏洞](./wpoc/顺景ERP/顺景ERP系统GetFile任意文件读取漏洞.md)

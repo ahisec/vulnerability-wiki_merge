@@ -8,10 +8,6 @@
 
 ![image](https://github.com/user-attachments/assets/a2b045ed-2231-47ff-87f9-d325fe73157d)
 
-开源维护不易，有钱的大哥，可以请我们喝杯咖啡清醒清醒ᕙ(• ॒ ູ•)ᕘ
-
-![image](https://github.com/user-attachments/assets/b1b5f1c0-bf6d-4934-bc66-6d616e7d90be)
-
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
@@ -417,7 +413,6 @@
 - [锐明技术Mangrove系统任意用户创建漏洞](./wpoc/锐明技术Crocus系统/锐明技术Mangrove系统任意用户创建漏洞.md)
 - [迪普DPTech-VPN任意文件读取(补丁绕过)](./wpoc/迪普/迪普DPTech-VPN任意文件读取(补丁绕过).md)
 - [众智OA办公系统Login存在SQL注入漏洞](./wpoc/众智OA/众智OA办公系统Login存在SQL注入漏洞.md)
-- [eking管理易Html5Upload接口存在任意文件上传漏洞](./wpoc/eking管理易/eking管理易Html5Upload接口存在任意文件上传漏洞.md)
 - [致远OA后台表单导入任意文件写入漏洞](./wpoc/致远OA/致远OA后台表单导入任意文件写入漏洞.md)
 - [迈普pnsr2900x系统接口DOWNLOAD_FILE任意文件读取漏洞](./wpoc/迈普多业务融合网关/迈普pnsr2900x系统接口DOWNLOAD_FILE任意文件读取漏洞.md)
 
@@ -748,7 +743,6 @@
 - [杭州雄威餐厅数字化综合管理平台存在存在绕过认证导致任意密码重置漏洞](./wpoc/杭州雄威餐厅数字化综合管理平台/杭州雄威餐厅数字化综合管理平台存在存在绕过认证导致任意密码重置漏洞.md)
 - [用友U9系统DoQuery接口存在SQL注入](./wpoc/用友OA/用友U9系统DoQuery接口存在SQL注入.md)
 - [泛微ecology系统setup接口存在信息泄露漏洞](./wpoc/泛微OA/泛微ecology系统setup接口存在信息泄露漏洞.md)
-- [eking管理易FileUpload接口存在任意文件上传漏洞](./wpoc/eking管理易/eking管理易FileUpload接口存在任意文件上传漏洞.md)
 - [SpringBlade系统menu接口存在SQL注入漏洞](./wpoc/SpringBlade/SpringBlade系统menu接口存在SQL注入漏洞.md)
 - [JeecgBoot反射型XSS漏洞](./wpoc/JeecgBoot/JeecgBoot反射型XSS漏洞.md)
 

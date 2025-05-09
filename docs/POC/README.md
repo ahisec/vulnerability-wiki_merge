@@ -12,6 +12,9 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
+# 2025-05-09
+- [Supermap iServer任意文件读取漏洞](./wpoc/Supermap%20iServer/Supermap%20iServer任意文件读取漏洞.md)
+
 # 2025-04-28
 - [Langflow框架远程命令执行漏洞(CVE-2025-3248)](./wpoc/Langflow框架/Langflow框架远程命令执行漏洞(CVE-2025-3248).md)
 - [FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306)](./wpoc/FOXCMS黔狐内容管理系统/FOXCMS黔狐内容管理系统_远程代码执行漏洞(CVE-2025-29306).md)

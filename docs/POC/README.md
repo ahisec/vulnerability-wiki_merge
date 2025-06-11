@@ -12,7 +12,20 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
-# 2025-05-09
+# 2025-06-11
+- [金和OA-C6系统接口ActionDataSet存在XXE漏洞](./wpoc/金和OA/金和OA-C6系统接口ActionDataSet存在XXE漏洞.md)
+- [灵当CRM系统接口Playforrecord接口处存在任意文件读取漏洞](.//wpoc/灵当CRM/灵当CRM系统接口Playforrecord接口处存在任意文件读取漏洞.md)
+- [原创先锋后台管理admin_list存在未授权访问](./wpoc/原创先锋后台管理/原创先锋后台管理admin_list存在未授权访问.md)
+- [礼品卡电子券收卡系统parent_id存在前台存在SQL注入](./wpoc/礼品卡电子券收卡系统/礼品卡电子券收卡系统parent_id存在前台存在SQL注入.md)
+- [NetMizer日志管理系统terminals接口存在SQL注入](./wpoc/NetMizer/NetMizer日志管理系统terminals接口存在SQL注入.md)
+- [数夫CRM接口file_download存在任意文件读取](./wpoc/数夫CRM/数夫CRM接口file_download存在任意文件读取.md)
+- [银达汇智智慧综合管理平台PPlugList接口存在SQL注入](./wpoc/银达汇智智慧综合管理平台/银达汇智智慧综合管理平台PPlugList接口存在SQL注入.md)
+- [WordPress Madara存在本地文件包含(CVE-2025-4524)](./wpoc/WordPress/WordPress%20Madara存在本地文件包含(CVE-2025-4524).md)
+- [Pichome接口index存在任意文件读取(CVE-2025-1743)](./wpoc/Pichome/Pichome接口index存在任意文件读取(CVE-2025-1743).md)
+- [PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞](./wpoc/PagerMaid-Pyro后台管理系统/PagerMaid-Pyro后台管理系统run_sh接口存在未授权命令执行漏洞.md)
+- [Grafana存在未授权SSRF漏洞(CVE-2025-4123)](./wpoc/Grafana/Grafana存在未授权SSRF漏洞(CVE-2025-4123).md)
+- [unibox路由器postprosa接口存在SQL注入](./wpoc/unibox路由器/unibox路由器postprosa接口存在SQL注入.md)
+- [Salia PLCC cPH2 远程命令执行漏洞](./wpoc/Salia/Salia%20PLCC%20cPH2%20远程命令执行漏洞.md)
 - [Supermap iServer任意文件读取漏洞](./wpoc/Supermap%20iServer/Supermap%20iServer任意文件读取漏洞.md)
 
 # 2025-04-28
